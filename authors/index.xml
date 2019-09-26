@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Academic</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jul 2019 14:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agni Orfanoudaki</title>
+      <link>/authors/agni-orfanoudaki/</link>
+      <pubDate>Sun, 28 Jul 2019 14:00:00 +0000</pubDate>
+      
+      <guid>/authors/agni-orfanoudaki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dimitris Bertsimas</title>
+      <link>/authors/dimitris-bertsimas/</link>
+      <pubDate>Sun, 28 Jul 2019 14:00:00 +0000</pubDate>
+      
+      <guid>/authors/dimitris-bertsimas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holly Wiberg</title>
+      <link>/authors/holly-wiberg/</link>
+      <pubDate>Sun, 28 Jul 2019 14:00:00 +0000</pubDate>
+      
+      <guid>/authors/holly-wiberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konstantinos Mylonas</title>
+      <link>/authors/konstantinos-mylonas/</link>
+      <pubDate>Sun, 04 Nov 2018 11:00:00 +0000</pubDate>
+      
+      <guid>/authors/konstantinos-mylonas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Masiakos</title>
+      <link>/authors/peter-masiakos/</link>
+      <pubDate>Sun, 04 Nov 2018 11:00:00 +0000</pubDate>
+      
+      <guid>/authors/peter-masiakos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Freund</title>
+      <link>/authors/daniel-freund/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/daniel-freund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanjing Jian</title>
+      <link>/authors/nanjing-jian/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/nanjing-jian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shane Henderson</title>
+      <link>/authors/shane-henderson/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/shane-henderson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Hello! I am a third year PhD candidate at the Operations Research Center at MIT, working with &lt;a href=&#34;https://www.mit.edu/~dbertsim/&#34; target=&#34;_blank&#34;&gt;Professor Dimitris Bertsimas&lt;/a&gt;. My research leverages optimization and machine learning techniques in healthcare. I am working to develop novel approaches to improve patient care based on individual characteristics, including medical history and genomic data. I am particularly interested in the interpretability of machine learning models and applications to oncology. I previously worked at athenahealth, a healthcare IT company, on their Data Science team.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
