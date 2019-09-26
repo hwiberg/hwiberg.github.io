@@ -3,12 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-07-28T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/agni-orfanoudaki/</loc>
     <lastmod>2019-07-28T14:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -33,6 +27,12 @@
   
   <url>
     <loc>/authors/holly-wiberg/</loc>
+    <lastmod>2019-07-28T14:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2019-07-28T14:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
