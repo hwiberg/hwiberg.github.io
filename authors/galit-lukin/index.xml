@@ -17,8 +17,16 @@
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hwiberg.github.io/publication/covid_mortality/</guid>
-      <description>&lt;p&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/p&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From predictions to prescriptions: A data-driven response to COVID-19</title>
+      <link>https://hwiberg.github.io/publication/covid_datadriven/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/covid_datadriven/</guid>
+      <description></description>
     </item>
     
   </channel>

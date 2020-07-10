@@ -17,8 +17,7 @@
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hwiberg.github.io/publication/covid_mortality/</guid>
-      <description>&lt;p&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -27,8 +26,16 @@
       <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hwiberg.github.io/publication/icot/</guid>
-      <description>&lt;p&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/p&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From predictions to prescriptions: A data-driven response to COVID-19</title>
+      <link>https://hwiberg.github.io/publication/covid_datadriven/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/covid_datadriven/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -46,12 +53,11 @@
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://hwiberg.github.io/publication/jps/</guid>
-      <description>&lt;p&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
-      <title>A Network-based Approach To Drug-target Interactions In Cancer</title>
+      <title>A Network-Based Approach To Drug-Target Interactions In Cancer</title>
       <link>https://hwiberg.github.io/talk/informs2019/</link>
       <pubDate>Tue, 22 Oct 2019 07:45:00 +0000</pubDate>
       
@@ -92,8 +98,7 @@
       <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://hwiberg.github.io/publication/wsc/</guid>
-      <description>&lt;p&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
