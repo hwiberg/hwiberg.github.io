@@ -2,60 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dimitris Bertsimas on Holly Wiberg</title>
-    <link>/authors/dimitris-bertsimas/</link>
+    <link>https://hwiberg.github.io/authors/dimitris-bertsimas/</link>
     <description>Recent content in Dimitris Bertsimas on Holly Wiberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jul 2019 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/dimitris-bertsimas/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://hwiberg.github.io/authors/dimitris-bertsimas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>COVID-19 Mortality Risk Assessment: An International Multi-Center Study</title>
+      <link>https://hwiberg.github.io/publication/covid_mortality/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/covid_mortality/</guid>
+      <description>&lt;p&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interpretable Clustering: An Optimization Approach</title>
+      <link>https://hwiberg.github.io/publication/icot/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/icot/</guid>
+      <description>&lt;p&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prediction of cervical spine injury in young pediatric patients: an optimal trees artificial intelligence approach</title>
+      <link>https://hwiberg.github.io/publication/jps/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/jps/</guid>
+      <description>&lt;p&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Network-based Approach To Drug-target Interactions In Cancer</title>
+      <link>https://hwiberg.github.io/talk/informs2019/</link>
+      <pubDate>Tue, 22 Oct 2019 07:45:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informs2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Personalized Cancer Therapies using Genomic Information</title>
-      <link>/talk/informshealthcare2019/</link>
+      <link>https://hwiberg.github.io/talk/informshealthcare2019/</link>
       <pubDate>Sun, 28 Jul 2019 14:00:00 +0000</pubDate>
       
-      <guid>/talk/informshealthcare2019/</guid>
+      <guid>https://hwiberg.github.io/talk/informshealthcare2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[Poster] Interpretable Clustering via Optimal Trees</title>
-      <link>/talk/neurips2018/</link>
+      <link>https://hwiberg.github.io/talk/neurips2018/</link>
       <pubDate>Fri, 07 Dec 2018 10:00:00 +0000</pubDate>
       
-      <guid>/talk/neurips2018/</guid>
+      <guid>https://hwiberg.github.io/talk/neurips2018/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Interpretable Clustering: An Optimization Approach</title>
-      <link>/publication/icot/</link>
-      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/icot/</guid>
-      <description>&lt;p&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/p&gt;
-</description>
     </item>
     
     <item>
       <title>Predicting Cervical Spine Injury in Pediatric Trauma Patients</title>
-      <link>/talk/informs2018/</link>
+      <link>https://hwiberg.github.io/talk/informs2018/</link>
       <pubDate>Sun, 04 Nov 2018 11:00:00 +0000</pubDate>
       
-      <guid>/talk/informs2018/</guid>
+      <guid>https://hwiberg.github.io/talk/informs2018/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Prediction of cervical spine injury in young pediatric patients: an optimal trees artificial intelligence approach</title>
-      <link>/publication/jps/</link>
-      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/jps/</guid>
-      <description>&lt;p&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

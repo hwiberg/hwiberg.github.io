@@ -2,48 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conferences &#43; Talks on Holly Wiberg</title>
-    <link>/talk/</link>
+    <link>https://hwiberg.github.io/talk/</link>
     <description>Recent content in Conferences &#43; Talks on Holly Wiberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Mar 2020 13:30:00 +0000</lastBuildDate>
     
-	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://hwiberg.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An Optimization Approach to Roster Creation</title>
-      <link>/talk/ssac2020/</link>
+      <link>https://hwiberg.github.io/talk/ssac2020/</link>
       <pubDate>Sat, 07 Mar 2020 13:30:00 +0000</pubDate>
       
-      <guid>/talk/ssac2020/</guid>
+      <guid>https://hwiberg.github.io/talk/ssac2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Network-based Approach To Drug-target Interactions In Cancer</title>
+      <link>https://hwiberg.github.io/talk/informs2019/</link>
+      <pubDate>Tue, 22 Oct 2019 07:45:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informs2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personalized Cancer Therapies using Genomic Information</title>
-      <link>/talk/informshealthcare2019/</link>
+      <link>https://hwiberg.github.io/talk/informshealthcare2019/</link>
       <pubDate>Sun, 28 Jul 2019 14:00:00 +0000</pubDate>
       
-      <guid>/talk/informshealthcare2019/</guid>
+      <guid>https://hwiberg.github.io/talk/informshealthcare2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[Poster] Interpretable Clustering via Optimal Trees</title>
-      <link>/talk/neurips2018/</link>
+      <link>https://hwiberg.github.io/talk/neurips2018/</link>
       <pubDate>Fri, 07 Dec 2018 10:00:00 +0000</pubDate>
       
-      <guid>/talk/neurips2018/</guid>
+      <guid>https://hwiberg.github.io/talk/neurips2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Cervical Spine Injury in Pediatric Trauma Patients</title>
-      <link>/talk/informs2018/</link>
+      <link>https://hwiberg.github.io/talk/informs2018/</link>
       <pubDate>Sun, 04 Nov 2018 11:00:00 +0000</pubDate>
       
-      <guid>/talk/informs2018/</guid>
+      <guid>https://hwiberg.github.io/talk/informs2018/</guid>
       <description></description>
     </item>
     

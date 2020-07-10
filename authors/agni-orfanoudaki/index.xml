@@ -2,41 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agni Orfanoudaki on Holly Wiberg</title>
-    <link>/authors/agni-orfanoudaki/</link>
+    <link>https://hwiberg.github.io/authors/agni-orfanoudaki/</link>
     <description>Recent content in Agni Orfanoudaki on Holly Wiberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jul 2019 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/agni-orfanoudaki/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://hwiberg.github.io/authors/agni-orfanoudaki/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>COVID-19 Mortality Risk Assessment: An International Multi-Center Study</title>
+      <link>https://hwiberg.github.io/publication/covid_mortality/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/covid_mortality/</guid>
+      <description>&lt;p&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interpretable Clustering: An Optimization Approach</title>
+      <link>https://hwiberg.github.io/publication/icot/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/icot/</guid>
+      <description>&lt;p&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Network-based Approach To Drug-target Interactions In Cancer</title>
+      <link>https://hwiberg.github.io/talk/informs2019/</link>
+      <pubDate>Tue, 22 Oct 2019 07:45:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informs2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Personalized Cancer Therapies using Genomic Information</title>
-      <link>/talk/informshealthcare2019/</link>
+      <link>https://hwiberg.github.io/talk/informshealthcare2019/</link>
       <pubDate>Sun, 28 Jul 2019 14:00:00 +0000</pubDate>
       
-      <guid>/talk/informshealthcare2019/</guid>
+      <guid>https://hwiberg.github.io/talk/informshealthcare2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[Poster] Interpretable Clustering via Optimal Trees</title>
-      <link>/talk/neurips2018/</link>
+      <link>https://hwiberg.github.io/talk/neurips2018/</link>
       <pubDate>Fri, 07 Dec 2018 10:00:00 +0000</pubDate>
       
-      <guid>/talk/neurips2018/</guid>
+      <guid>https://hwiberg.github.io/talk/neurips2018/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Interpretable Clustering: An Optimization Approach</title>
-      <link>/publication/icot/</link>
-      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/icot/</guid>
-      <description>&lt;p&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

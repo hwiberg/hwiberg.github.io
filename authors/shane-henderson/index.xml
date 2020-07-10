@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shane Henderson on Holly Wiberg</title>
-    <link>/authors/shane-henderson/</link>
+    <link>https://hwiberg.github.io/authors/shane-henderson/</link>
     <description>Recent content in Shane Henderson on Holly Wiberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/shane-henderson/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://hwiberg.github.io/authors/shane-henderson/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Simulation optimization for a large-scale bike-sharing system</title>
-      <link>/publication/wsc/</link>
+      <link>https://hwiberg.github.io/publication/wsc/</link>
       <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/wsc/</guid>
+      <guid>https://hwiberg.github.io/publication/wsc/</guid>
       <description>&lt;p&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/p&gt;
 </description>
     </item>
