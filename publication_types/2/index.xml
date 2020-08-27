@@ -6,15 +6,24 @@
     <description>Recent content in 2 on Holly Wiberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hwiberg.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Machine Learning in Oncology: Methods, Applications, and Challenges</title>
+      <link>https://hwiberg.github.io/publication/ml_oncology/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/ml_oncology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Interpretable Clustering: An Optimization Approach</title>
       <link>https://hwiberg.github.io/publication/icot/</link>
-      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hwiberg.github.io/publication/icot/</guid>
       <description></description>

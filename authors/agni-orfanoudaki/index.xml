@@ -6,10 +6,19 @@
     <description>Recent content in Agni Orfanoudaki on Holly Wiberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hwiberg.github.io/authors/agni-orfanoudaki/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Interpretable Clustering: An Optimization Approach</title>
+      <link>https://hwiberg.github.io/publication/icot/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/icot/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>COVID-19 Mortality Risk Assessment: An International Multi-Center Study</title>
@@ -17,15 +26,6 @@
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hwiberg.github.io/publication/covid_mortality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interpretable Clustering: An Optimization Approach</title>
-      <link>https://hwiberg.github.io/publication/icot/</link>
-      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://hwiberg.github.io/publication/icot/</guid>
       <description></description>
     </item>
     
