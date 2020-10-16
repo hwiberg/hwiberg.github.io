@@ -6,10 +6,19 @@
     <description>Recent content on Holly Wiberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2020 08:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hwiberg.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine Learning in Oncology: Methods, Applications, and Challenges</title>
+      <link>https://hwiberg.github.io/publication/ml_oncology/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/ml_oncology/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Personalized Predictions and Prescriptions for COVID-19 Patients: A Machine Learning Approach</title>
@@ -17,15 +26,6 @@
       <pubDate>Wed, 14 Oct 2020 08:30:00 +0000</pubDate>
       
       <guid>https://hwiberg.github.io/talk/covid_clinical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning in Oncology: Methods, Applications, and Challenges</title>
-      <link>https://hwiberg.github.io/publication/ml_oncology/</link>
-      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://hwiberg.github.io/publication/ml_oncology/</guid>
       <description></description>
     </item>
     
