@@ -6,10 +6,19 @@
     <description>Recent content in Publications on Holly Wiberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hwiberg.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Personalized Prescription of ACEI/ARBs for Hypertensive COVID-19 Patients</title>
+      <link>https://hwiberg.github.io/publication/covid_treatments/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/covid_treatments/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine Learning in Oncology: Methods, Applications, and Challenges</title>
@@ -21,7 +30,7 @@
     </item>
     
     <item>
-      <title>Interpretable Clustering: An Optimization Approach</title>
+      <title>Interpretable clustering: an optimization approach</title>
       <link>https://hwiberg.github.io/publication/icot/</link>
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
       

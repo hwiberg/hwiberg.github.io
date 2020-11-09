@@ -3,48 +3,119 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hwiberg.github.io/publication_types/3/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/authors/agni-orfanoudaki/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/authors/alison-borenstein/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/authors/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/authors/bartolomeo-stellato/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/authors/carlos-macaya/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/authors/dimitris-bertsimas/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/authors/dirk-varelmann/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/authors/holly-wiberg/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/authors/ivan-nunez-gil/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/authors/luca-mingardi/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/authors/omid-nohadani/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/authors/pankaj-sarin/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/publication/covid_treatments/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/publication_types/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/publication/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/authors/vicente-estrada/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hwiberg.github.io/publication_types/2/</loc>
     <lastmod>2020-10-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hwiberg.github.io/authors/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hwiberg.github.io/authors/dimitris-bertsimas/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hwiberg.github.io/authors/holly-wiberg/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hwiberg.github.io/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://hwiberg.github.io/publication/ml_oncology/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hwiberg.github.io/publication_types/</loc>
-    <lastmod>2020-10-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hwiberg.github.io/publication/</loc>
     <lastmod>2020-10-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -65,20 +136,8 @@
   </url>
   
   <url>
-    <loc>https://hwiberg.github.io/authors/agni-orfanoudaki/</loc>
-    <lastmod>2020-08-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://hwiberg.github.io/publication/icot/</loc>
     <lastmod>2020-08-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hwiberg.github.io/publication_types/3/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -95,12 +154,6 @@
   
   <url>
     <loc>https://hwiberg.github.io/authors/barry-stein/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hwiberg.github.io/authors/bartolomeo-stellato/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -141,12 +194,6 @@
   </url>
   
   <url>
-    <loc>https://hwiberg.github.io/authors/luca-mingardi/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://hwiberg.github.io/authors/martina-dal-bello/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -154,12 +201,6 @@
   
   <url>
     <loc>https://hwiberg.github.io/authors/michelle-schneider/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hwiberg.github.io/authors/omid-nohadani/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
