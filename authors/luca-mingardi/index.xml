@@ -6,10 +6,28 @@
     <description>Recent content in Luca Mingardi on Holly Wiberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2020 10:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hwiberg.github.io/authors/luca-mingardi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>COVID-19 mortality prediction: a data-driven risk assessment tool</title>
+      <link>https://hwiberg.github.io/talk/swissre_summit/</link>
+      <pubDate>Tue, 10 Nov 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/swissre_summit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Risk Predictions for COVID-19</title>
+      <link>https://hwiberg.github.io/talk/informs2020/</link>
+      <pubDate>Mon, 09 Nov 2020 16:30:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informs2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Personalized Prescription of ACEI/ARBs for Hypertensive COVID-19 Patients</title>
