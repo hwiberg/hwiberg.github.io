@@ -6,10 +6,19 @@
     <description>Recent content in Omid Nohadani on Holly Wiberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hwiberg.github.io/authors/omid-nohadani/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>From predictions to prescriptions: A data-driven response to COVID-19</title>
+      <link>https://hwiberg.github.io/publication/covid_datadriven/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/covid_datadriven/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>COVID-19 Mortality Risk Assessment: An International Multi-Center Study</title>
@@ -44,15 +53,6 @@
       <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hwiberg.github.io/publication/covid_treatments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>From predictions to prescriptions: A data-driven response to COVID-19</title>
-      <link>https://hwiberg.github.io/publication/covid_datadriven/</link>
-      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://hwiberg.github.io/publication/covid_datadriven/</guid>
       <description></description>
     </item>
     
