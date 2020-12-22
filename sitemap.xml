@@ -21,6 +21,12 @@
   </url>
   
   <url>
+    <loc>https://hwiberg.github.io/authors/alison-borenstein/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hwiberg.github.io/authors/arthur-delarue/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -39,6 +45,12 @@
   </url>
   
   <url>
+    <loc>https://hwiberg.github.io/authors/carlos-macaya/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hwiberg.github.io/authors/cynthia-zheng/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -46,6 +58,12 @@
   
   <url>
     <loc>https://hwiberg.github.io/authors/dimitris-bertsimas/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/authors/dirk-varelmann/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -81,6 +99,12 @@
   
   <url>
     <loc>https://hwiberg.github.io/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/authors/ivan-nunez-gil/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -134,6 +158,17 @@
   </url>
   
   <url>
+    <loc>https://hwiberg.github.io/authors/pankaj-sarin/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/publication/covid_treatments/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hwiberg.github.io/publication_types/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -158,6 +193,12 @@
   
   <url>
     <loc>https://hwiberg.github.io/authors/vassilis-digalakis-jr./</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hwiberg.github.io/authors/vicente-estrada/</loc>
     <lastmod>2020-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -252,47 +293,6 @@
   <url>
     <loc>https://hwiberg.github.io/talk/informs2020/</loc>
     <lastmod>2020-11-09T16:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hwiberg.github.io/authors/alison-borenstein/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hwiberg.github.io/authors/carlos-macaya/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hwiberg.github.io/authors/dirk-varelmann/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hwiberg.github.io/authors/ivan-nunez-gil/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hwiberg.github.io/authors/pankaj-sarin/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hwiberg.github.io/publication/covid_treatments/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hwiberg.github.io/authors/vicente-estrada/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
