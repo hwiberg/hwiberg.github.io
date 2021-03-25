@@ -6,10 +6,19 @@
     <description>Recent content in Dimitris Bertsimas on Holly Wiberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hwiberg.github.io/authors/dimitris-bertsimas/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Personalized Prescription of ACEI/ARBs for Hypertensive COVID-19 Patients</title>
+      <link>https://hwiberg.github.io/publication/covid_treatments/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/covid_treatments/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From predictions to prescriptions: A data-driven response to COVID-19</title>
@@ -17,15 +26,6 @@
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://hwiberg.github.io/publication/covid_datadriven/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personalized Prescription of ACEI/ARBs for Hypertensive COVID-19 Patients</title>
-      <link>https://hwiberg.github.io/publication/covid_treatments/</link>
-      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://hwiberg.github.io/publication/covid_treatments/</guid>
       <description></description>
     </item>
     
