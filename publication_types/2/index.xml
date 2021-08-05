@@ -6,10 +6,19 @@
     <description>Recent content in 2 on Holly Wiberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hwiberg.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prediction of Neutropenic Events in Chemotherapy Patients: A Machine Learning Approach</title>
+      <link>https://hwiberg.github.io/publication/neutropenia/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/neutropenia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Personalized Prescription of ACEI/ARBs for Hypertensive COVID-19 Patients</title>

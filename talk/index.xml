@@ -6,10 +6,19 @@
     <description>Recent content in Conferences &#43; Talks on Holly Wiberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2020 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jul 2021 14:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hwiberg.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>From Data to Prescriptions: An Optimization Framework for Treatment Personalization</title>
+      <link>https://hwiberg.github.io/talk/informshealthcare2021/</link>
+      <pubDate>Wed, 21 Jul 2021 14:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informshealthcare2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>COVID-19 mortality prediction: a data-driven risk assessment tool</title>
