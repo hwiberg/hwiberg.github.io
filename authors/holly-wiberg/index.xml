@@ -6,10 +6,37 @@
     <description>Recent content on Holly Wiberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Oct 2021 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2023 11:30:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hwiberg.github.io/authors/holly-wiberg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A hybrid approach to scalable real-world data curation by machine learning and human experts</title>
+      <link>https://hwiberg.github.io/talk/imsi2023/</link>
+      <pubDate>Thu, 04 May 2023 11:30:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/imsi2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid approach to scalable real-world data curation by machine learning and human experts</title>
+      <link>https://hwiberg.github.io/publication/hybrid/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Virtual Care for Chronic Disease Patients: A Case Study in Diabetes</title>
+      <link>https://hwiberg.github.io/talk/informs2022/</link>
+      <pubDate>Mon, 17 Oct 2022 17:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informs2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From Data to Prescriptions: An Optimization Framework for Treatment Personalization</title>
