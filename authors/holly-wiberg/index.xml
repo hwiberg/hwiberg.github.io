@@ -6,10 +6,55 @@
     <description>Recent content on Holly Wiberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 May 2023 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 08:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hwiberg.github.io/authors/holly-wiberg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A hybrid approach to scalable real-world data curation by machine learning and human experts</title>
+      <link>https://hwiberg.github.io/talk/poms2024/</link>
+      <pubDate>Sat, 27 Apr 2024 08:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/poms2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraint Learning for Healthcare Decision-Making</title>
+      <link>https://hwiberg.github.io/talk/ios2024/</link>
+      <pubDate>Sat, 23 Mar 2024 14:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/ios2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed-integer optimization with constraint learning</title>
+      <link>https://hwiberg.github.io/publication/opticl/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/opticl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid approach to scalable real-world data curation by machine learning and human experts</title>
+      <link>https://hwiberg.github.io/talk/informs2023/</link>
+      <pubDate>Mon, 16 Oct 2023 13:45:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/talk/informs2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pediatric Cervical Spine Injury Following Blunt Trauma in Children Younger Than 3 Years: The PEDSPINE II Study</title>
+      <link>https://hwiberg.github.io/publication/jamasurg/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/jamasurg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A hybrid approach to scalable real-world data curation by machine learning and human experts</title>
@@ -44,15 +89,6 @@
       <pubDate>Mon, 25 Oct 2021 06:00:00 +0000</pubDate>
       
       <guid>https://hwiberg.github.io/talk/informs2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mixed-integer optimization with constraint learning</title>
-      <link>https://hwiberg.github.io/publication/opticl/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://hwiberg.github.io/publication/opticl/</guid>
       <description></description>
     </item>
     

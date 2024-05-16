@@ -6,10 +6,28 @@
     <description>Recent content in Dimitris Bertsimas on Holly Wiberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Oct 2022 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hwiberg.github.io/authors/dimitris-bertsimas/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mixed-integer optimization with constraint learning</title>
+      <link>https://hwiberg.github.io/publication/opticl/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/opticl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pediatric Cervical Spine Injury Following Blunt Trauma in Children Younger Than 3 Years: The PEDSPINE II Study</title>
+      <link>https://hwiberg.github.io/publication/jamasurg/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/jamasurg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimizing Virtual Care for Chronic Disease Patients: A Case Study in Diabetes</title>
@@ -26,15 +44,6 @@
       <pubDate>Mon, 25 Oct 2021 06:00:00 +0000</pubDate>
       
       <guid>https://hwiberg.github.io/talk/informs2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mixed-integer optimization with constraint learning</title>
-      <link>https://hwiberg.github.io/publication/opticl/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://hwiberg.github.io/publication/opticl/</guid>
       <description></description>
     </item>
     

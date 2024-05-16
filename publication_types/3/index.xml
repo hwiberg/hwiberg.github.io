@@ -6,10 +6,19 @@
     <description>Recent content in 3 on Holly Wiberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://hwiberg.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mixed-integer optimization with constraint learning</title>
+      <link>https://hwiberg.github.io/publication/opticl/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hwiberg.github.io/publication/opticl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A hybrid approach to scalable real-world data curation by machine learning and human experts</title>
@@ -17,15 +26,6 @@
       <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://hwiberg.github.io/publication/hybrid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mixed-integer optimization with constraint learning</title>
-      <link>https://hwiberg.github.io/publication/opticl/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://hwiberg.github.io/publication/opticl/</guid>
       <description></description>
     </item>
     
