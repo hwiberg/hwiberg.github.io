@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Holly Wiberg</title>
+    <link>https://example.com/post/</link>
+      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Posts</title>
+      <link>https://example.com/post/</link>
+    </image>
+    
+    <item>
+      <title>Preprint available on arxiv</title>
+      <link>https://example.com/post/preprint/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/preprint/</guid>
+      <description>&lt;p&gt;Our preprint is available!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

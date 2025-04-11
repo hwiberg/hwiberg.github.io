@@ -1,0 +1,2 @@
+baseURL: "https://hwiberg.github.io/hmw-website/"
+publishDir: "docs"

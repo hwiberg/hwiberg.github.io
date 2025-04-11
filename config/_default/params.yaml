@@ -1,0 +1,48 @@
+style:
+  custom_css: ["css/custom.css"]
+
+# Appearance
+appearance:
+  theme: "dark"
+  font_size: "xs"
+
+  
+favicon: "logo.png"
+# Site header
+
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    fixed_to_top: true
+    show_search: false
+    show_theme_chooser: false
+    logo:
+      text: "Holly Wiberg"
+      image: "logo.png"
+  background: "#223e74"
+  text_color: light
+
+page:
+  reading_time: false
+  link_authors: false       # disables the hyperlink
+  show_pager: false
+  share: false
+
+# SEO
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    twitter: 'GetResearchDev'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+  verification:
+    google: ''
+    baidu: ''

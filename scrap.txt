@@ -1,0 +1,11 @@
+  
+  
+  mode: system
+  theme_color: "#223e74"
+  color: blue
+
+  theme:
+    font:
+      heading: "Inter"
+      body: "Inter"
+      font_size: xs

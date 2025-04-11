@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Holly Wiberg</title>
+    <link>http://localhost:1313/posts/</link>
+      <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_80877ff618525a6b.png</url>
+      <title>Posts</title>
+      <link>http://localhost:1313/posts/</link>
+    </image>
+    
+    <item>
+      <title>Preprint available on arxiv</title>
+      <link>http://localhost:1313/posts/preprint/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/preprint/</guid>
+      <description>&lt;p&gt;Our preprint is available!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

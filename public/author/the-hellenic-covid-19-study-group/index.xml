@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Hellenic COVID-19 Study Group | CMU Heinz</title>
+    <link>http://localhost:1313/author/the-hellenic-covid-19-study-group/</link>
+      <atom:link href="http://localhost:1313/author/the-hellenic-covid-19-study-group/index.xml" rel="self" type="application/rss+xml" />
+    <description>The Hellenic COVID-19 Study Group</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>The Hellenic COVID-19 Study Group</title>
+      <link>http://localhost:1313/author/the-hellenic-covid-19-study-group/</link>
+    </image>
+    
+  </channel>
+</rss>

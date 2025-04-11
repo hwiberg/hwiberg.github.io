@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suzi Birz | CMU Heinz</title>
+    <link>http://localhost:1313/author/suzi-birz/</link>
+      <atom:link href="http://localhost:1313/author/suzi-birz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Suzi Birz</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Suzi Birz</title>
+      <link>http://localhost:1313/author/suzi-birz/</link>
+    </image>
+    
+    <item>
+      <title>Prediction of Neutropenic Events in Chemotherapy Patients: A Machine Learning Approach</title>
+      <link>http://localhost:1313/publication/neutropenia/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/neutropenia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

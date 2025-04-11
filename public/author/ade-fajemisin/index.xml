@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ade Fajemisin | CMU Heinz</title>
+    <link>http://localhost:1313/author/ade-fajemisin/</link>
+      <atom:link href="http://localhost:1313/author/ade-fajemisin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ade Fajemisin</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Ade Fajemisin</title>
+      <link>http://localhost:1313/author/ade-fajemisin/</link>
+    </image>
+    
+    <item>
+      <title>Mixed-integer optimization with constraint learning</title>
+      <link>http://localhost:1313/publication/opticl/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/opticl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Holly Wiberg</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Holly Wiberg</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Holly Wiberg</title>
+      <link>https://example.com/</link>
+    </image>
+    
+    <item>
+      <title>Preprint available on arxiv</title>
+      <link>https://example.com/post/preprint/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/preprint/</guid>
+      <description>&lt;p&gt;Our preprint is available!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://example.com/publication_archive/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication_archive/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://example.com/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://example.com/publication_archive/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication_archive/journal-article/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://example.com/publication_archive/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication_archive/conference-paper/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://example.com/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/news/</guid>
+      <description>&lt;div style=&#34;font-size: 0.85rem;&#34;&gt;
+&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📝 &lt;em&gt;April 2025&lt;/em&gt;: test!&lt;/li&gt;
+&lt;li&gt;🎉 &lt;em&gt;March 2025&lt;/em&gt;: test!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🏆 &lt;em&gt;October 2024&lt;/em&gt;: test.&lt;/li&gt;
+&lt;li&gt;✈️ &lt;em&gt;July 2024&lt;/em&gt;: test.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://example.com/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/</guid>
+      <description>&lt;div style=&#34;font-size: 0.85rem;&#34;&gt;
+&lt;h3 id=&#34;journal-articles&#34;&gt;Journal Articles&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Maragno, D.&lt;/strong&gt;, &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Bertsimas, D., Bilber, S. I., den Hertog, D., &amp;amp; Fajemisin, A. (2023). &lt;em&gt;Mixed-Integer Optimization with Constraint Learning&lt;/em&gt;. &lt;em&gt;Operations Research&lt;/em&gt;, 73(2), 1011-1028.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Luckhurst, C., &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Masiakos, P., &amp;hellip; &amp;amp; Bertsimas, D. (2023). &lt;em&gt;Pediatric Cervical Spine Injury Following Blunt Trauma in Children Younger Than 3 Years Old; A Multi-Center Follow Up Study and a Novel Prediction Model&lt;/em&gt;. &lt;em&gt;JAMA Surgery&lt;/em&gt;, 158(11), 1126-1132.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Soenksen, L., Ma, Y., Zeng, C., Boussioux, L., Villalobos Carballo, K., Na, I., &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Li, M., Fuentes, I., &amp;amp; Bertsimas, D. (2022). &lt;em&gt;Integrated Multimodal Artificial Intelligence Framework for Healthcare Applications&lt;/em&gt;. &lt;em&gt;npj Digital Medicine&lt;/em&gt;, 5, 149.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bertsimas, D., Margonis, G. A., Huang, Y., Andreatos, N., &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Ma, Y., &amp;hellip; Wolfgang, C. L. (2021). &lt;em&gt;Towards an Optimized Staging System for Pancreatic Ductal Adenocarcinoma: A Clinically Interpretable, Artificial Intelligence-Based Model&lt;/em&gt;. &lt;em&gt;JCO Clinical Cancer Informatics&lt;/em&gt;, 5, 1220-1231.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Yu, P., Montanaro, P., Mather, J., Birz, S., Schneider, M., &amp;amp; Bertsimas, D. (2021). &lt;em&gt;Prediction of Neutropenic Events in Chemotherapy Patients: A Machine Learning Approach&lt;/em&gt;. &lt;em&gt;JCO Clinical Cancer Informatics&lt;/em&gt;, 5, 904-911.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bertsimas, D., Borenstein, A., Mingardi, L., Nohadani, O., Orfanoudaki, A., Stellato, B., &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, et al. (2021). &lt;em&gt;Personalized Prescription of ACEI/ARBs for Hypertensive COVID-19 Patients&lt;/em&gt;. &lt;em&gt;Health Care Management Science&lt;/em&gt;, 1-17.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bertsimas, D., Boussioux, L., Cory-Wright, R., Delarue, A., Digalakis, V., Jacquillat, A., &amp;hellip; &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, et al. (2021). &lt;em&gt;From Predictions to Prescriptions: A Data-Driven Response to COVID-19&lt;/em&gt;. &lt;em&gt;Health Care Management Science&lt;/em&gt;, 1-20.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bertsimas, D., Lukin, G., Mingardi, L., Nohadani, O., Orfanoudaki, A., Stellato, B., &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, et al. (2020). &lt;em&gt;COVID-19 Mortality Risk Assessment: An International Multi-Center Study&lt;/em&gt;. &lt;em&gt;PLOS One&lt;/em&gt;, 15(12), e0243262.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bertsimas, D., &amp;amp; &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2020). &lt;em&gt;Machine Learning in Oncology: Methods, Applications, and Challenges&lt;/em&gt;. &lt;em&gt;JCO Clinical Cancer Informatics&lt;/em&gt;, 4, 885-894.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bertsimas, D., Orfanoudaki, A., &amp;amp; &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2020). &lt;em&gt;Interpretable Clustering: An Optimization Approach&lt;/em&gt;. &lt;em&gt;Machine Learning&lt;/em&gt;, 110(1), 89-138.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bertsimas, D., Masiakos, P. T., Mylonas, K. S., &amp;amp; &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2019). &lt;em&gt;Prediction of Cervical Spine Injury in Young Pediatric Patients: An Optimal Trees Artificial Intelligence Approach&lt;/em&gt;. &lt;em&gt;Journal of Pediatric Surgery&lt;/em&gt;, 54(11), 2353-2357.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jian, N., Freund, D., &lt;strong&gt;Wiberg, H. M.&lt;/strong&gt;, &amp;amp; Henderson, S. G. (2016). &lt;em&gt;Simulation Optimization for a Large-Scale Bike-Sharing System&lt;/em&gt;.&lt;em&gt;Winter Simulation Conference (WSC)&lt;/em&gt;, IEEE, 602-613.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;under-review&#34;&gt;Under Review&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Raman, N., &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2025). &lt;em&gt;Assortment Optimization for Patient-Provider Matching&lt;/em&gt;. arXiv. Under review for the 2025 ACM Conference on Economics and Computation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Dai, T., Lam, H., Kulkarni, R. (2025). &lt;em&gt;Synergizing Artificial Intelligence and Operations Research: Perspectives from INFORMS Fellows on the Next Frontier&lt;/em&gt;. Under review at &lt;em&gt;INFORMS Journal on Data Science&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;working-papers&#34;&gt;Working Papers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Jelic, B., Kalra, G., Orfanoudaki, A., &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2025). &lt;em&gt;From Prediction to Policy: AI-Enabled Decision-Making in Fertility Treatment&lt;/em&gt;. Under review for MSOM Annual Conference.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yao, X., Padman, R., Sherahadeh, K., &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2025). &lt;em&gt;Can LLMs Support Medical Knowledge Imputation? An Evaluation-Based Perspective&lt;/em&gt;. Under review for AMIA Annual Conference.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Verma, S., Tayur, S., &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Zhu, W. (2025). &lt;em&gt;From Data to Dose: Personalized Dosing with Data Generation and Expert Feedback&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Neha, &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Zhang, P. (2025). &lt;em&gt;Tactical Planning of School Bus Operations in Potential Delays&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Wiberg, H.&lt;/strong&gt;, &amp;amp; Barrett, S. (2024). &lt;em&gt;Optimizing Access to Primary Care&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Brooks, N., Koyle, C., &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2025). &lt;em&gt;AI and the Rural Healthcare Divide: Missing the Last Mile&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;preprints&#34;&gt;Preprints&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Waskom, M. L., Tan, K., &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Cohen, A. B., Wittmerhaus, B., Shapiro, W. (2023). &lt;em&gt;A Hybrid Approach to Scalable Real-World Data Curation by Machine Learning and Human Experts&lt;/em&gt;. &lt;em&gt;medRxiv&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;books&#34;&gt;Books&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bertsimas, D., Orfanoudaki, A., &amp;amp; &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2025). &lt;em&gt;The Analytics Edge in Healthcare&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;reports&#34;&gt;Reports&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Kulkarni, R., Brero, G., Ding, Y., Gupta, S., Koenig, S., Krishnan, R., Serra, T., Vayanos, P., Wasserkrug, S., &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2025). &lt;em&gt;AI/OR Workshop Series Final Report&lt;/em&gt;. Washington, D.C.: Computing Research Association (CRA).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;media&#34;&gt;Media&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Wasserkrug, S., Cheriyan, V., Dai, T., &amp;hellip;, &amp;amp; &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2025). &lt;em&gt;A Prominent Role for INFORMS in the Age of AI&lt;/em&gt;. &lt;em&gt;ORMS Today&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;INFORMS. (2024). &lt;em&gt;Changing the Landscape of Healthcare as we Know it—The Role and Impact of AI&lt;/em&gt;. [Video]. YouTube.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://example.com/publication_archive/_index_alt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication_archive/_index_alt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://example.com/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/</guid>
+      <description>&lt;div style=&#34;font-size: 0.85rem;&#34;&gt;
+&lt;h2 id=&#34;cmu-heinz-courses&#34;&gt;CMU Heinz Courses&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;90-722 Management Science I | Heinz College, Carnegie Mellon University&lt;/strong&gt;&lt;br&gt;
+— &lt;em&gt;Graduate-level introductory course on optimization (linear, integer, multi-objective).&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;90-760 Management Science II | Heinz College, Carnegie Mellon University&lt;/strong&gt;&lt;br&gt;
+— &lt;em&gt;Graduate-level introductory course on forecasting, simulation, and other quantitative methods.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;course-development&#34;&gt;Course Development&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Analytics Edge in Healthcare&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

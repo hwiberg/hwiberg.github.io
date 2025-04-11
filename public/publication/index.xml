@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | CMU Heinz</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Mixed-integer optimization with constraint learning</title>
+      <link>http://localhost:1313/publication/opticl/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/opticl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pediatric Cervical Spine Injury Following Blunt Trauma in Children Younger Than 3 Years: The PEDSPINE II Study</title>
+      <link>http://localhost:1313/publication/jamasurg/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jamasurg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid approach to scalable real-world data curation by machine learning and human experts</title>
+      <link>http://localhost:1313/publication/hybrid/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of Neutropenic Events in Chemotherapy Patients: A Machine Learning Approach</title>
+      <link>http://localhost:1313/publication/neutropenia/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/neutropenia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized Prescription of ACEI/ARBs for Hypertensive COVID-19 Patients</title>
+      <link>http://localhost:1313/publication/covid_treatments/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/covid_treatments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From predictions to prescriptions: A data-driven response to COVID-19</title>
+      <link>http://localhost:1313/publication/covid_datadriven/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/covid_datadriven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Mortality Risk Assessment: An International Multi-Center Study</title>
+      <link>http://localhost:1313/publication/covid_mortality/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/covid_mortality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning in Oncology: Methods, Applications, and Challenges</title>
+      <link>http://localhost:1313/publication/ml_oncology/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ml_oncology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable clustering: an optimization approach</title>
+      <link>http://localhost:1313/publication/icot/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/icot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of cervical spine injury in young pediatric patients: an optimal trees artificial intelligence approach</title>
+      <link>http://localhost:1313/publication/jps/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation optimization for a large-scale bike-sharing system</title>
+      <link>http://localhost:1313/publication/wsc/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/_ndex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/_ndex/</guid>
+      <description>&lt;h2 id=&#34;peer-reviewed-journal-articles&#34;&gt;Peer-Reviewed Journal Articles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Maragno, D.&lt;/strong&gt;, &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Bertsimas, D., Bilber, S. I., den Hertog, D., &amp;amp; Fajemisin, A. (2023).&lt;br&gt;
+&lt;em&gt;Mixed-Integer Optimization with Constraint Learning&lt;/em&gt;.&lt;br&gt;
+&lt;em&gt;Operations Research&lt;/em&gt;, 73(2), 1011-1028.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Luckhurst, C., &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Masiakos, P., &amp;hellip; &amp;amp; Bertsimas, D. (2023).&lt;br&gt;
+&lt;em&gt;Pediatric Cervical Spine Injury Following Blunt Trauma in Children Younger Than 3 Years Old; A Multi-Center Follow Up Study and a Novel Prediction Model&lt;/em&gt;.&lt;br&gt;
+&lt;em&gt;JAMA Surgery&lt;/em&gt;, 158(11), 1126-1132.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Soenksen, L., Ma, Y., Zeng, C., Boussioux, L., Villalobos Carballo, K., Na, I., &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Li, M., Fuentes, I., &amp;amp; Bertsimas, D. (2022).&lt;br&gt;
+&lt;em&gt;Integrated Multimodal Artificial Intelligence Framework for Healthcare Applications&lt;/em&gt;.&lt;br&gt;
+&lt;em&gt;npj Digital Medicine&lt;/em&gt;, 5, 149.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bertsimas, D., Margonis, G. A., Huang, Y., Andreatos, N., &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Ma, Y., &amp;hellip; Wolfgang, C. L. (2021).&lt;br&gt;
+&lt;em&gt;Towards an Optimized Staging System for Pancreatic Ductal Adenocarcinoma: A Clinically Interpretable, Artificial Intelligence-Based Model&lt;/em&gt;.&lt;br&gt;
+&lt;em&gt;JCO Clinical Cancer Informatics&lt;/em&gt;, 5, 1220-1231.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Yu, P., Montanaro, P., Mather, J., Birz, S., Schneider, M., &amp;amp; Bertsimas, D. (2021).&lt;br&gt;
+&lt;em&gt;Prediction of Neutropenic Events in Chemotherapy Patients: A Machine Learning Approach&lt;/em&gt;.&lt;br&gt;
+&lt;em&gt;JCO Clinical Cancer Informatics&lt;/em&gt;, 5, 904-911.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bertsimas, D., Borenstein, A., Mingardi, L., Nohadani, O., Orfanoudaki, A., Stellato, B., &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, et al. (2021).&lt;br&gt;
+&lt;em&gt;Personalized Prescription of ACEI/ARBs for Hypertensive COVID-19 Patients&lt;/em&gt;.&lt;br&gt;
+&lt;em&gt;Health Care Management Science&lt;/em&gt;, 1-17.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bertsimas, D., Boussioux, L., Cory-Wright, R., Delarue, A., Digalakis, V., Jacquillat, A., &amp;hellip; &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, et al. (2021).&lt;br&gt;
+&lt;em&gt;From Predictions to Prescriptions: A Data-Driven Response to COVID-19&lt;/em&gt;.&lt;br&gt;
+&lt;em&gt;Health Care Management Science&lt;/em&gt;, 1-20.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bertsimas, D., Lukin, G., Mingardi, L., Nohadani, O., Orfanoudaki, A., Stellato, B., &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, et al. (2020).&lt;br&gt;
+&lt;em&gt;COVID-19 Mortality Risk Assessment: An International Multi-Center Study&lt;/em&gt;.&lt;br&gt;
+&lt;em&gt;PLOS One&lt;/em&gt;, 15(12), e0243262.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bertsimas, D., &amp;amp; &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2020).&lt;br&gt;
+&lt;em&gt;Machine Learning in Oncology: Methods, Applications, and Challenges&lt;/em&gt;.&lt;br&gt;
+&lt;em&gt;JCO Clinical Cancer Informatics&lt;/em&gt;, 4, 885-894.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bertsimas, D., Orfanoudaki, A., &amp;amp; &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2020).&lt;br&gt;
+&lt;em&gt;Interpretable Clustering: An Optimization Approach&lt;/em&gt;.&lt;br&gt;
+&lt;em&gt;Machine Learning&lt;/em&gt;, 110(1), 89-138.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bertsimas, D., Masiakos, P. T., Mylonas, K. S., &amp;amp; &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2019).&lt;br&gt;
+&lt;em&gt;Prediction of Cervical Spine Injury in Young Pediatric Patients: An Optimal Trees Artificial Intelligence Approach&lt;/em&gt;.&lt;br&gt;
+&lt;em&gt;Journal of Pediatric Surgery&lt;/em&gt;, 54(11), 2353-2357.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jian, N., Freund, D., &lt;strong&gt;Wiberg, H. M.&lt;/strong&gt;, &amp;amp; Henderson, S. G. (2016).&lt;br&gt;
+&lt;em&gt;Simulation Optimization for a Large-Scale Bike-Sharing System&lt;/em&gt;.&lt;br&gt;
+&lt;em&gt;Winter Simulation Conference (WSC)&lt;/em&gt;, IEEE, 602-613.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;under-review&#34;&gt;Under Review&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Raman, N., &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2025). &lt;em&gt;Assortment Optimization for Patient-Provider Matching&lt;/em&gt;. arXiv.&lt;br&gt;
+Under review for the 2025 ACM Conference on Economics and Computation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Dai, T., Lam, H., Kulkarni, R. (2025). &lt;em&gt;Synergizing Artificial Intelligence and Operations Research: Perspectives from INFORMS Fellows on the Next Frontier&lt;/em&gt;.&lt;br&gt;
+Under review at &lt;em&gt;INFORMS Journal on Data Science&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;working-papers&#34;&gt;Working Papers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Jelic, B., Kalra, G., Orfanoudaki, A., &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2025). &lt;em&gt;From Prediction to Policy: AI-Enabled Decision-Making in Fertility Treatment&lt;/em&gt;.&lt;br&gt;
+Under review for MSOM Annual Conference.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yao, X., Padman, R., Sherahadeh, K., &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2025). &lt;em&gt;Can LLMs Support Medical Knowledge Imputation? An Evaluation-Based Perspective&lt;/em&gt;.&lt;br&gt;
+Under review for AMIA Annual Conference.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Verma, S., Tayur, S., &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Zhu, W. (2025). &lt;em&gt;From Data to Dose: Personalized Dosing with Data Generation and Expert Feedback&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Neha, &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Zhang, P. (2025). &lt;em&gt;Tactical Planning of School Bus Operations in Potential Delays&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Wiberg, H.&lt;/strong&gt;, &amp;amp; Barrett, S. (2024). &lt;em&gt;Optimizing Access to Primary Care&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Brooks, N., Koyle, C., &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2025). &lt;em&gt;AI and the Rural Healthcare Divide: Missing the Last Mile&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Waskom, M. L., Tan, K., &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Cohen, A. B., Wittmerhaus, B., Shapiro, W. (2023).&lt;br&gt;
+&lt;em&gt;A Hybrid Approach to Scalable Real-World Data Curation by Machine Learning and Human Experts&lt;/em&gt;.&lt;br&gt;
+&lt;em&gt;medRxiv&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bertsimas, D., Orfanoudaki, A., &amp;amp; &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2025).&lt;br&gt;
+&lt;em&gt;The Analytics Edge in Healthcare&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reports&#34;&gt;Reports&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Kulkarni, R., Brero, G., Ding, Y., Gupta, S., Koenig, S., Krishnan, R., Serra, T., Vayanos, P., Wasserkrug, S., &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2025).&lt;br&gt;
+&lt;em&gt;AI/OR Workshop Series Final Report&lt;/em&gt;. Washington, D.C.: Computing Research Association (CRA).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Wasserkrug, S., Cheriyan, V., Dai, T., &amp;hellip;, &amp;amp; &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2025). &lt;em&gt;A Prominent Role for INFORMS in the Age of AI&lt;/em&gt;. &lt;em&gt;ORMS Today&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;INFORMS. (2024). &lt;em&gt;Changing the Landscape of Healthcare as we Know it—The Role and Impact of AI&lt;/em&gt;. [Video]. YouTube.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

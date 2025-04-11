@@ -1,0 +1,11 @@
+{{ $backlinks := .Params.backlinks }}
+{{ if $backlinks }}
+  <div class="pt-6 pb-0 text-sm text-gray-500 dark:text-gray-400">
+    <h2 class="text-base font-semibold">{{ i18n "backlinks" }}</h2>
+    <ul>
+      {{ range $backlinks }}
+        <li><a href="{{ .url | relURL }}">{{ .title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}

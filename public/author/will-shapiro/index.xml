@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Will Shapiro | CMU Heinz</title>
+    <link>http://localhost:1313/author/will-shapiro/</link>
+      <atom:link href="http://localhost:1313/author/will-shapiro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Will Shapiro</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Will Shapiro</title>
+      <link>http://localhost:1313/author/will-shapiro/</link>
+    </image>
+    
+    <item>
+      <title>A hybrid approach to scalable real-world data curation by machine learning and human experts</title>
+      <link>http://localhost:1313/publication/hybrid/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hybrid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
