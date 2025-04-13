@@ -361,11 +361,11 @@
       "nav-toggle",
       "page-bg",
       "peer-reviewed-journal-articles",
-      "preprints",
       "profile",
       "reports",
       "section-markdown",
       "section-resume-biography-3",
+      "selected-working-papers",
       "share-link-email",
       "share-link-facebook",
       "share-link-linkedin",
@@ -373,9 +373,7 @@
       "share-link-x",
       "show-button",
       "site-header",
-      "top",
-      "under-review",
-      "working-papers"
+      "top"
     ]
   }
 }
