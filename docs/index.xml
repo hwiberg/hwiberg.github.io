@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Holly Wiberg</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Holly Wiberg</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_80877ff618525a6b.png</url>
+      <url>http://localhost:1313/media/icon_hu_80877ff618525a6b.png</url>
       <title>Holly Wiberg</title>
-      <link>https://example.com/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Preprint available on arxiv</title>
-      <link>https://example.com/post/preprint/</link>
+      <link>http://localhost:1313/post/preprint/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/preprint/</guid>
+      <guid>http://localhost:1313/post/preprint/</guid>
       <description>&lt;p&gt;Our preprint is available!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/publication_archive/preprint/</link>
+      <link>http://localhost:1313/publication_archive/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication_archive/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://example.com/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>http://localhost:1313/publication_archive/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -39,9 +39,9 @@
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/publication_archive/journal-article/</link>
+      <link>http://localhost:1313/publication_archive/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication_archive/journal-article/</guid>
+      <guid>http://localhost:1313/publication_archive/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -60,9 +60,9 @@
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication_archive/conference-paper/</link>
+      <link>http://localhost:1313/publication_archive/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication_archive/conference-paper/</guid>
+      <guid>http://localhost:1313/publication_archive/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -80,10 +80,18 @@
     </item>
     
     <item>
-      <title>News</title>
-      <link>https://example.com/news/</link>
+      <title></title>
+      <link>http://localhost:1313/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/news/</guid>
+      <guid>http://localhost:1313/team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/</guid>
       <description>&lt;div style=&#34;font-size: 0.85rem;&#34;&gt;
 &lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;
 &lt;ul&gt;
@@ -100,12 +108,15 @@
     
     <item>
       <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <link>http://localhost:1313/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/</guid>
+      <guid>http://localhost:1313/publication/</guid>
       <description>&lt;div style=&#34;font-size: 0.85rem;&#34;&gt;
 &lt;h3 id=&#34;selected-working-papers&#34;&gt;Selected Working Papers&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Koyle, C., Brooks, N., &amp;amp; Wiberg, H. AI and Rural Healthcare: Aligning Innovation with Local Needs. &lt;em&gt;Under Review&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Raman, N., &lt;strong&gt;Wiberg, H.&lt;/strong&gt; (2025). &lt;a href=&#34;https://arxiv.org/abs/2502.10353&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Assortment Optimization for Patient-Provider Matching&lt;/a&gt;. &lt;em&gt;arXiv&lt;/em&gt;.&lt;/p&gt;
 &lt;/li&gt;
@@ -121,6 +132,9 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;journal-articles&#34;&gt;Journal Articles&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Dai, T., Lam, H., &amp;amp; Kulkarni, R. (2025). &lt;a href=&#34;https://pubsonline.informs.org/doi/full/10.1287/ijds.2025.0077&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Synergizing Artificial Intelligence and Operations Research: Perspectives from INFORMS Fellows on the Next Frontier&lt;/a&gt;. &lt;em&gt;INFORMS Journal on Data Science&lt;/em&gt; (Ahead of Print).&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Maragno, D.&lt;/strong&gt;, &lt;strong&gt;Wiberg, H.&lt;/strong&gt;, Bertsimas, D., Bilber, S. I., den Hertog, D., &amp;amp; Fajemisin, A. (2023). &lt;a href=&#34;https://pubsonline.informs.org/doi/10.1287/opre.2021.0707&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mixed-Integer Optimization with Constraint Learning&lt;/a&gt;. &lt;em&gt;Operations Research&lt;/em&gt;, 73(2), 1011-1028.&lt;/p&gt;
 &lt;/li&gt;
@@ -180,17 +194,17 @@
     
     <item>
       <title>Publications</title>
-      <link>https://example.com/publication_archive/_index_alt/</link>
+      <link>http://localhost:1313/publication_archive/_index_alt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication_archive/_index_alt/</guid>
+      <guid>http://localhost:1313/publication_archive/_index_alt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://example.com/teaching/</link>
+      <link>http://localhost:1313/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/</guid>
+      <guid>http://localhost:1313/teaching/</guid>
       <description>&lt;div style=&#34;font-size: 0.85rem;&#34;&gt;
 &lt;h2 id=&#34;cmu-heinz-courses&#34;&gt;CMU Heinz Courses&lt;/h2&gt;
 &lt;ul&gt;
