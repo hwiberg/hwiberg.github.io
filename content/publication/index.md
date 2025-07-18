@@ -12,6 +12,8 @@ pager: false
 
 ### Selected Working Papers
 
+- Koyle, C., Brooks, N., & Wiberg, H. AI and Rural Healthcare: Aligning Innovation with Local Needs. _Under Review_.
+
 - Raman, N., **Wiberg, H.** (2025). [Assortment Optimization for Patient-Provider Matching](https://arxiv.org/abs/2502.10353). _arXiv_.
 
 - Verma, S., Tayur, S., **Wiberg, H.**, Zhu, W. (2025). From Data to Dose: Personalized Dosing with Data Generation and Expert Feedback.
@@ -21,6 +23,8 @@ pager: false
 - Waskom, M. L., Tan, K., **Wiberg, H.**, Cohen, A. B., Wittmerhaus, B., Shapiro, W. (2023). [A Hybrid Approach to Scalable Real-World Data Curation by Machine Learning and Human Experts](https://www.medrxiv.org/content/10.1101/2023.03.06.23286770v1). _medRxiv_.
 
 ### Journal Articles
+
+- **Wiberg, H.**, Dai, T., Lam, H., & Kulkarni, R. (2025). [Synergizing Artificial Intelligence and Operations Research: Perspectives from INFORMS Fellows on the Next Frontier](https://pubsonline.informs.org/doi/full/10.1287/ijds.2025.0077). _INFORMS Journal on Data Science_ (Ahead of Print).
 
 - **Maragno, D.**, **Wiberg, H.**, Bertsimas, D., Bilber, S. I., den Hertog, D., & Fajemisin, A. (2023). [Mixed-Integer Optimization with Constraint Learning](https://pubsonline.informs.org/doi/10.1287/opre.2021.0707). _Operations Research_, 73(2), 1011-1028.
 
