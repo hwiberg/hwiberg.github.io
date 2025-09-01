@@ -12,15 +12,15 @@ pager: false
 
 ### Selected Working Papers
 
-- Koyle, C., Brooks, N., & Wiberg, H. AI and Rural Healthcare: Aligning Innovation with Local Needs. _Under Review_.
+- Verma, S., Tayur, S., **Wiberg, H.**, Zhu, W. (2025). [From Data to Dose: Personalized Dosing with Data Generation and Expert Feedback](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400895). _Under Review_. 
 
-- Raman, N., **Wiberg, H.** (2025). [Assortment Optimization for Patient-Provider Matching](https://arxiv.org/abs/2502.10353). _arXiv_.
+- Koyle, C., Brooks, N., & **Wiberg, H.** AI and Rural Healthcare: Aligning Innovation with Local Needs. _Under Review_.
 
-- Verma, S., Tayur, S., **Wiberg, H.**, Zhu, W. (2025). From Data to Dose: Personalized Dosing with Data Generation and Expert Feedback.
+- Raman, N. & **Wiberg, H.** (2025). [Assortment Optimization for Patient-Provider Matching](https://arxiv.org/abs/2502.10353). _ML4H 2024_.
 
-- Neha, **Wiberg, H.**, Zhang, P. (2025). Tactical Planning of School Bus Operations in Potential Delays.
+- Yao, X., Sannabhadti, A., **Wiberg, H.**, Shehadeh, K. S., & Padman, R. (2025). [Can LLMs Support Medical Knowledge Imputation? An Evaluation-Based Perspective](https://arxiv.org/abs/2503.22954). _arXiv_.
 
-- Waskom, M. L., Tan, K., **Wiberg, H.**, Cohen, A. B., Wittmerhaus, B., Shapiro, W. (2023). [A Hybrid Approach to Scalable Real-World Data Curation by Machine Learning and Human Experts](https://www.medrxiv.org/content/10.1101/2023.03.06.23286770v1). _medRxiv_.
+- Waskom, M. L., Tan, K., **Wiberg, H.**, Cohen, A. B., Wittmerhaus, B., & Shapiro, W. (2023). [A Hybrid Approach to Scalable Real-World Data Curation by Machine Learning and Human Experts](https://www.medrxiv.org/content/10.1101/2023.03.06.23286770v1). _medRxiv_.
 
 ### Journal Articles
 
