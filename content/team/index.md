@@ -14,7 +14,7 @@ pager: false
 
 - Raman, N., **Wiberg, H.** (2025). [Assortment Optimization for Patient-Provider Matching](https://arxiv.org/abs/2502.10353). _arXiv_.
 
-- Verma, S., Tayur, S., **Wiberg, H.**, Zhu, W. (2025). [From Data to Dose: Personalized Dosing with Data Generation and Expert Feedback](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400895). _Under Review_. 
+- Verma, S., **Wiberg, H.**, Zhu, W. & Tayur, S. (2025). [From Data to Dose: Personalized Dosing with Data Generation and Expert Feedback](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400895). _Under Review_. 
 
 - Neha, **Wiberg, H.**, Zhang, P. (2025). Tactical Planning of School Bus Operations in Potential Delays.
 
